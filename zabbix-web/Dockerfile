@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-web-nginx-pgsql:alpine-3.4-latest
+FROM zabbix/zabbix-web-nginx-pgsql:alpine-latest
